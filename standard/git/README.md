@@ -5,5 +5,5 @@
 
 ## 目录
 
-1. [工作流文档](./workflow.md)
+1. [GIT工作流](./workflow.md)
 2. 代码提交规范
